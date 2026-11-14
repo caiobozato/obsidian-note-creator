@@ -1,7 +1,9 @@
-# Obsidian Note Creator
-
 <div align="center">
   <img src="./icon.png" alt="Obsidian Note Creator Icon" width="150" />
+</div>
+
+<div align="center">
+  <h1>Obsidian Note Creator</h1>
 </div>
 
 **A Claude skill that turns messy text into clean Obsidian notes.**
@@ -34,7 +36,7 @@ Pick the way that matches how you use Claude.
 
 ### Option 1: Claude app (claude.ai, desktop or mobile)
 
-1. Go to the [Releases page](https://github.com/YOUR-GITHUB-USER/obsidian-note-creator/releases) and download `obsidian-note-creator.zip`.
+1. Go to the [Releases page](https://github.com/caiobozato/obsidian-note-creator/releases) and download `obsidian-note-creator.zip`.
 2. Open Claude and go to **Customize → Skills**.
 3. Click **+**, then **Create skill**, then **Upload a skill**.
 4. Choose the ZIP file.
@@ -48,7 +50,7 @@ Pick the way that matches how you use Claude.
 Run these two commands inside Claude Code:
 
 ```
-/plugin marketplace add YOUR-GITHUB-USER/obsidian-note-creator
+/plugin marketplace add caiobozato/obsidian-note-creator
 /plugin install obsidian-note-creator@obsidian-note-creator
 ```
 
@@ -59,7 +61,7 @@ That's it. You also get updates when this repo changes.
 Copy the skill folder into your personal skills folder:
 
 ```bash
-git clone https://github.com/YOUR-GITHUB-USER/obsidian-note-creator.git
+git clone https://github.com/caiobozato/obsidian-note-creator.git
 mkdir -p ~/.claude/skills
 cp -r obsidian-note-creator/skills/obsidian-note-creator ~/.claude/skills/
 ```
@@ -256,7 +258,7 @@ Fork the repo, change the file, and share your version!
 
 ## 🤝 Contributing
 
-Found a bug or have an idea? Open an [issue](https://github.com/YOUR-GITHUB-USER/obsidian-note-creator/issues) or send a pull request.
+Found a bug or have an idea? Open an [issue](https://github.com/caiobozato/obsidian-note-creator/issues) or send a pull request.
 
 ---
 
