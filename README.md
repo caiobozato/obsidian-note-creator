@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./icon.png" alt="Obsidian Note Creator Icon" width="150" />
+  <img src="./icon.png" alt="Obsidian Note Creator Icon" width="170" />
 </div>
 
 <div align="center">
