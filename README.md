@@ -1,8 +1,8 @@
 # Obsidian Note Creator
 
-<center>
-  ![Obsidian Note Creator Icon](./icon.png)
-</center>
+<div align="center">
+  <img src="./icon.png" alt="Obsidian Note Creator Icon" width="150" />
+</div>
 
 **A Claude skill that turns messy text into clean Obsidian notes.**
 
